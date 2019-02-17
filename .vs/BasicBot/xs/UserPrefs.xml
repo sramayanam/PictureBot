@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BotServices.cs">
+    <Files>
+      <File FileName="BasicBot.cs" Line="40" Column="42" />
+      <File FileName="BasicBotAccessors.cs" Line="16" Column="35" />
+      <File FileName="Startup.cs" Line="89" Column="45" />
+      <File FileName="appsettings.json" Line="2" Column="34" />
+      <File FileName="srrampicturebot.bot" Line="53" Column="56" />
+      <File FileName="BotServices.cs" Line="9" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BasicBot" expanded="True" selected="True">
+            <Node name="BasicBot" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

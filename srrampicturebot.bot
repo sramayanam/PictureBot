@@ -1,0 +1,54 @@
+{
+    "name": "srrampicturebot",
+    "description": "",
+    "services": [
+        {
+            "type": "abs",
+            "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+            "subscriptionId": "893395a4-65a3-4525-99ea-2378c6e0dbed",
+            "resourceGroup": "srrambots",
+            "serviceName": "srrampicturebot",
+            "name": "srrampicturebot",
+            "id": "1",
+            "appId": "4b7c7611-77f9-4bab-9986-4ef047872115"
+        },
+        {
+            "type": "blob",
+            "connectionString": "DefaultEndpointsProtocol=https;AccountName=srrampictu39f9;AccountKey=4z6JN28Qcg64COUzKOeCk8dW+d+6GsA2sNpDxtOSSGjWBxLk+nOUwT+bZtW2a2niSwQLUOFs+FNGDv8Z40NGEQ==;",
+            "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+            "subscriptionId": "893395a4-65a3-4525-99ea-2378c6e0dbed",
+            "resourceGroup": "srrambots",
+            "serviceName": "srrampictu39f9",
+            "id": "2"
+        },
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "development",
+            "id": "3"
+        },
+        {
+            "type": "endpoint",
+            "appId": "4b7c7611-77f9-4bab-9986-4ef047872115",
+            "appPassword": "wldVGHTW4767-nhncOV1-(=",
+            "endpoint": "https://srrampicturebotz68g.azurewebsites.net/api/messages",
+            "name": "production",
+            "id": "4"
+        },
+        {
+            "type": "appInsights",
+            "instrumentationKey": "23b9d474-6944-46f0-9d4b-a0a7c897dad9",
+            "applicationId": "7ae4e571-18ca-4c85-a735-78e931cd1b9d",
+            "apiKeys": {},
+            "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+            "subscriptionId": "893395a4-65a3-4525-99ea-2378c6e0dbed",
+            "resourceGroup": "srrambots",
+            "serviceName": "srrampicturebot6vrfql",
+            "id": "5"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0"
+}
